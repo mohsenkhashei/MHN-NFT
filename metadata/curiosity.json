@@ -1,0 +1,11 @@
+{
+	"name": "curiosity",
+	"description": "The curiosity and hardwork one",
+	"image": "https://gateway.pinata.cloud/ipfs/QmZB8SCeL4icQMfX826FZFHVGjcUdTpWbF9fr9CZVDYwWA",
+	"attributes": [
+		{
+			"trait_type": "Space",
+			"value": "Mars"
+		}
+	]
+}
